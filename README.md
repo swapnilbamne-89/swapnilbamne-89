@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior AI Product Manager & AI Documentation Lead** at **Aeron Systems**, Pune — where I own the backlog across **11+ product lines** and spend most of my time at the messy intersection of *"what the AI can actually do"* and *"what the business swears it needs."*
+I'm a **AI Product Manager & Senior Technical Writer** at **Aeron Systems**, Pune — where I own the backlog across **11+ product lines** and spend most of my time at the messy intersection of *"what the AI can actually do"* and *"what the business swears it needs."*
 
 **13+ years** across Defense & Aerospace, IoT, Cybersecurity, and SaaS taught me that good products are built on unglamorous fundamentals: clear requirements, honest trade-offs, and documentation that doesn't lie to the next person who reads it. I started out as a technical writer — and that background is now my unfair advantage. I write PRDs like documentation, and documentation like it's a product feature.
 
