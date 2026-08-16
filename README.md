@@ -4,7 +4,7 @@
 
 ### AI Product Manager · Turning Frontier AI into Products People Actually Trust
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Senior+AI+Product+Manager+%40+Aeron+Systems;13%2B+Years+%7C+Aerospace+%C2%B7+IoT+%C2%B7+Cybersecurity+%C2%B7+SaaS;Shipping+AI+Agents%2C+Fraud+Models+%26+Fintech+PRDs;Ex-Technical+Writer+%E2%80%94+Now+I+PM+the+Robots" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Senior+AI+Product+Manager+%40+Aeron+Systems;13%2B+Years+%7C+Aerospace+%C2%B7+IoT+%C2%B7+Cybersecurity+%C2%B7+SaaS;Shipping+AI+Agents%2C+Fraud+Models+%26+Fintech+PRDs;Technical+Writer+%E2%80%94+Now+I+PM+the+Robots" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnilbamne/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sbamne89)
